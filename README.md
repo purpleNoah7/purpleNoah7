@@ -8,29 +8,7 @@
 - **Tailwind CSS**
 - **React**
 - **Next.js**
-
-## Proyectos Destacados
-
-### [Proyecto 1]
-
-[Descripción breve del proyecto 1]
-
-Tecnologías utilizadas:
-- HTML
-- CSS
-- JavaScript
-- [Otras tecnologías utilizadas]
-
-### [Proyecto 2]
-
-[Descripción breve del proyecto 2]
-
-Tecnologías utilizadas:
-- React
-- Next.js
-- Tailwind CSS
-- [Otras tecnologías utilizadas]
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ## Habilidades
 
 - Desarrollo web frontend
