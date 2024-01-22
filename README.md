@@ -8,7 +8,10 @@
 - **Tailwind CSS**
 - **React**
 - **Next.js**
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- **Git**
+- **GitHub**
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,tailwindcss,git,github,react)](https://skillicons.dev)
 ## Habilidades
 
 - Desarrollo web frontend
