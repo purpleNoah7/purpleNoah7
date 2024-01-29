@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy [Leandro]
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador frontend con experiencia en la creación de interfaces web atractivas y funcionales. Me especializo en las siguientes tecnologías:
 
