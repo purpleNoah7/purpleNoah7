@@ -20,13 +20,6 @@
 - Control de versiones con Git
 - Colaboración en proyectos usando GitHub
 
-## Cómo Contactarme
-
-¡Estoy abierto a colaboraciones y nuevas oportunidades! Puedes encontrarme en:
-
-- LinkedIn: [Tu LinkedIn]
-- Twitter: [@TuTwitter]
-- Correo electrónico: [TuCorreo@dominio.com]
 
 ## Aprendizaje Continuo
 
