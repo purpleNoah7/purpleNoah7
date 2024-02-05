@@ -10,8 +10,9 @@
 - **Next.js**
 - **Git**
 - **GitHub**
+- **Type Script**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,tailwindcss,git,github,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,tailwindcss,git,github,react,typescript)](https://skillicons.dev)
 ## Habilidades
 
 - Desarrollo web frontend
