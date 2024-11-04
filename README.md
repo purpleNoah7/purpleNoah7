@@ -10,6 +10,7 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador FullStack comprometido co
 - **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React, Next.js, Astro
 - **Backend:** Node.js, Express, APIs
 - **Herramientas:** Git, GitHub, TypeScript
+- **Mobile:** React Native
 - **Bases de Datos:** MongoDB, PostgreSQL
 
 [![Tech Stack](https://skillicons.dev/icons?i=js,html,css,nextjs,tailwindcss,git,github,react,typescript,nodejs,express,mongodb)](https://skillicons.dev)
